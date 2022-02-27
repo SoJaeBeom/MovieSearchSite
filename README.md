@@ -8,6 +8,8 @@
   - 검색페이지, 카드형 영화 목록 페이지, 영화별 상세페이지 구현
   - Jest를 활용한 Test 코드 적용
   - Netlify를 활용한 배포 (https://musing-colden-4d0a39.netlify.app)
+- 성장한 부분
+  - Vue에 대한 기본적인 기능 학습, Jest를 통한 TDD 경험
 
 < Main UI >
 <img width="1231" alt="스크린샷 2022-02-28 오전 1 22 05" src="https://user-images.githubusercontent.com/54342317/155890625-415bd7da-403c-4a5e-ac0c-69a94df5f21e.png">
